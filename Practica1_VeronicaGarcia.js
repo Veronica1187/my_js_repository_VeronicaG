@@ -1,7 +1,7 @@
 //PRACTICA 1 JAVASCRIPT
 
 //Imprimir al menos 10 lineas con una frase
-
+//new changes
 Console.log("Mi primer ejercicio de javascript");
 console.log("Está");
 console.log("Sencillo");
