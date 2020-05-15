@@ -1,1 +1,1 @@
-# my_js_repository_VeronicaG
+# my_java_repository_VeronicaG
